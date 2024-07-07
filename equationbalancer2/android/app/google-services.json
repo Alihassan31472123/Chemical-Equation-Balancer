@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314719046066",
+    "project_id": "equation-balancer-net",
+    "storage_bucket": "equation-balancer-net.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314719046066:android:285666ddc45e5bc149fcab",
+        "android_client_info": {
+          "package_name": "chemistry.chemical.equationbalancer.solver.withsteps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGNPkwGgrzAap0yPsv9KpH3McgXnFHRD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
